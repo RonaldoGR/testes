@@ -67,7 +67,7 @@ my_env\Scripts\activate     # Windows
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Tese de Web Scrapping 
+### Teste de Web Scrapping 
 - **Python**: linguagem de programação utilizada.
 - **requests**: para fazer requisições HTTP e obter o conteúdo das páginas da web.
 - **os**: para interagir com o sistema de arquivos, como criar pastas ou manipular caminhos.
