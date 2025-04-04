@@ -50,8 +50,8 @@ my_env\Scripts\activate     # Windows
 
   ## Frontend
   ```bash
-  npm create vue@latest <br>
-  cd nome-do-diretório <br>
+  npm create vue@latest 
+  cd nome-do-diretório 
   npm install
   ```
 
