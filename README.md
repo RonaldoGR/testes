@@ -1,4 +1,4 @@
-<p text-align="center">
+
    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
    ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
    ![Flask-CORS](https://img.shields.io/badge/Flask--CORS-blue?style=for-the-badge)
@@ -10,7 +10,7 @@
    ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffdd57?style=for-the-badge)
    ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
    ![tabula](https://img.shields.io/badge/tabula-pdf-red?style=for-the-badge)
-</p>
+
 <h1 text-align="center"> Testes - Ronaldo Gandra Rocha </h1>
 <h3>Link do deploy para exibição do teste na vercel: https://frontend-teste-ten.vercel.app/</h3> 
 
